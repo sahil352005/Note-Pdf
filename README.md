@@ -30,8 +30,8 @@ A sophisticated web application for viewing and managing medical documents with 
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd medical-document-viewer
+git clone https://github.com/sahil352005/Note-Pdf.git
+cd cheerful-columns
 ```
 
 2. Install dependencies
