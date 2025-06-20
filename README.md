@@ -20,7 +20,7 @@ A sophisticated web application for viewing and managing medical documents with 
 - React
 - TypeScript
 - Tailwind CSS
-- shadcn/ui for UI components
+- shadcn/ui for UI components and good experience
 - React Router for navigation
 - react-pdf for PDF viewing
 
